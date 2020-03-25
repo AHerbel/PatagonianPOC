@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PatagonianPOC</string>
+    <string name="artist_helper_text">The author to search for</string>
+    <string name="artist_hint">Author</string>
+    <string name="song_hint">Song</string>
+    <string name="song_helper_text">The song to search for</string>
+
+    <string name="search">Search</string>
+
+    <string name="artist_field_error">You need to enter a name</string>
+    <string name="song_field_error">You need to enter a title</string>
+    <string name="previous_search">Previous Search: %1$s - %2$s</string>
+    <string name="author_title">%1$s - %2$s</string>
+    <string name="search_history">Search History</string>
+    <string name="no_lyrics_searched">There are no lyrics searched until the moment</string>
+</resources>
